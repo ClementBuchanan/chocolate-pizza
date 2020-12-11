@@ -1,0 +1,60 @@
+/* entire document */
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(121, 120, 120);
+  width: 960px;
+  margin: auto;
+}
+
+/* Header styling */
+header {
+  width: 960px;
+  margin-top: 25px;
+} 
+
+header div {
+  float: right;
+}
+
+header span:nth-child(7) {
+  margin-left: 10px;
+}
+
+#printicon {
+  display: inline-block;
+}
+
+/* main */
+
+h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: black;
+}
+
+main span {
+  float: right;
+}
+
+#main img {
+  width: 960px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+main p {
+  text-indent: 15px;
+  line-height: 25px;
+  margin-bottom: 10px;
+}
+
+#menu {
+  margin-top: 20px;
+  width: 960px;
+  float: center;
+}
+
+
+
+/* footer */
